@@ -1,0 +1,11 @@
+Algorithme Insertion_Sort
+
+var tab, lenght
+
+for var i=1; i<lenght; i++;
+var temp=tab[i];
+var j=i;
+while j>0 and tab [j-1]>temp;
+tab[j]=tab[j-1];
+j--;
+tab[j]=temp;
